@@ -150,7 +150,7 @@
 "1506297439":{"gift":1,"lottery":0,"used":1},
 "1480877349":{"gift":1,"lottery":0,"used":1},
 "1260961723":{"gift":1,"lottery":0,"used":1},
-"1218280316":{"gift":2,"lottery":1,"used":1},
+"1218280316":{"gift":2,"lottery":1,"used":2},
 "1113149873":{"gift":1,"lottery":0,"used":1},
 "1084049666":{"gift":1,"lottery":0,"used":1},
 "1020289691":{"gift":1,"lottery":1,"used":1},
@@ -186,5 +186,6 @@
 "876103974":{"gift":1,"lottery":0,"used":1},
 "2621600737":{"gift":1,"lottery":0,"used":1},
 "1071057833":{"gift":1,"lottery":0,"used":1},
-"3129608832":{"gift":1,"lottery":0,"used":0}
+"3129608832":{"gift":1,"lottery":0,"used":0},
+"2915483362":{"gift":1,"lottery":0,"used":0}
 }
